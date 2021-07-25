@@ -1,4 +1,4 @@
-## Hi there! Welcome to my page! 👋
+## Welcome to my page! 👋
 
 My entire data journey so far to remind myself how far I've come and what else I have to learn 😄 
 
