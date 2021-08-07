@@ -25,5 +25,5 @@ coming up: uploading my own project for each concept listed
     preprocessing for sklearn: under/oversampling for skewed data
     Algorithms: random forest, optimization (XBoost gradient descent), model evaluation (AUC, ROC curve)
  7. Maths- Bayesian statistics, hypothesis testing, probability sampling, statistical significance, designing tests, inferential statistics 
- 8. Others: Data mining, processing text data, processing image data, Data structures and algorithms, understand APIs, filetypes (json, parquet, html, ...) 
+ 8. Others: Data mining, processing text data, processing image data, Data structures and algorithms, understand APIs, filetypes (json, parquet, html, pickle, ...) 
 
