@@ -19,11 +19,12 @@ coming up: uploading my own project for each concept listed
  ### 💬  Working on  
  1. Python intermediate- set data type, object orientated programming, annonymous functions, arbitrary arguments in functions, creating checkpoints for code: (try, except, assert), decorators, the nuance in assigning vars to a mutable datatype (pointing to the same object in memory), REGEX, Recursion 
  2. Algorithms and datatypes: binary search, how array and linekd list work and their big O notations, selection sort algorithm, stack data structure, quicksort (divide and conquer), hastable and how they work (collisions, load factor, hash function) 
- 3. Python library - integrate with db environemnt (SQLalchemy, SQLite3), requests 
- 4. Visualization - explore animated plots and plots that utomatically updates with live data 
+ 3. Python library - integrate with db environemnt (SQLalchemy, SQLite3), requests, os
+ 4. Visualization - explore animated plots and plots that automatically updates with live data library, apache airflow to access and control local files, rw
  5. Machine Learning- 
     preprocessing for sklearn: under/oversampling for skewed data
     Algorithms: random forest, optimization (XBoost gradient descent), model evaluation (AUC, ROC curve)
  7. Maths- Bayesian statistics, hypothesis testing, probability sampling, statistical significance, designing tests, inferential statistics 
- 8. Others: Data mining, processing text data, processing image data, Data structures and algorithms, understand APIs, filetypes (json, parquet, html, pickle, ...) 
+ 8. Others: Data mining, processing text data, processing image data, Data structures and algorithms, understand APIs, filetypes (json, parquet, html, pickle, ...)
+ 9. MLOps, DevOps, Cloud computing, Handling big data hadoop, spark. 
 
