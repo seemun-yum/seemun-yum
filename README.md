@@ -15,6 +15,7 @@ coming up: uploading my own project for each concept listed
     More concepts: Bias vs variance (Regularization), Dimensionality reduction (Principal component analysis) 
 5. Maths- Linear algebra, descriptive statistics (centrality, spread, skewness, frequency distribution) 
 6. Others: ETL basics, API key generation, datetime ... 
+7. Web developemenmt: Started learning HTML and CSS 
 
  ### 💬  Working on  
  1. Python intermediate- set data type, object orientated programming, annonymous functions, arbitrary arguments in functions, creating checkpoints for code: (try, except, assert), decorators, the nuance in assigning vars to a mutable datatype (pointing to the same object in memory), REGEX, Recursion 
@@ -26,5 +27,5 @@ coming up: uploading my own project for each concept listed
     Algorithms: random forest, optimization (XBoost gradient descent), model evaluation (AUC, ROC curve)
  7. Maths- Bayesian statistics, hypothesis testing, probability sampling, statistical significance, designing tests, inferential statistics 
  8. Others: Data mining, processing text data, processing image data, Data structures and algorithms, understand APIs, filetypes (json, parquet, html, pickle, ...)
- 9. MLOps, DevOps, Cloud computing, Handling big data hadoop, spark. 
+ 9. Java Script, MLOps, DevOps, Cloud computing, Handling big data hadoop, spark. 
 
