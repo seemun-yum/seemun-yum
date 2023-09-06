@@ -6,15 +6,15 @@ coming up: uploading my own project for each concept listed
 
 ### 🌱 Currently dipped my feet into 
 
-1. Python basics- native data types, logic and iterative loops, creating functions, etc. 
+1. Python intermediates- using classes, decorators to
 2. Python library- pandas, numpy (similar to MATLAB), matplotlib, seabron, plotly, altair (creating interesting interactive charts), sklearn, streamlit  
 3. Visualization- graph types and interativeness customization with altair, converting altair visuals to html for deployment.  
 4. Machine Learning- 
     Preprocesing for sklearn: cleaning (null values, outliers, format consistency,remove dupplicates, check datatype), normalizing/scaling, imputing null values, encoding categorical variable (one hot encoding), split train validation test set. 
     ML algorithms: supervised learning (logistic regression, linear regression, support vector machines (kernels), Decision tree classifier, K nearest neighbors, random forest) , unsupervised learning (k means clustering, PCA, t-SNE, SVD), optimization algorithm (iterative: gradient descent, numerical inverse method: normal equation), model evaluation (Accuracy, confusion f1 metrics, cross validation, ROC curve), neural network (forward and backward propagation, convolutional network) 
     More concepts: Bias vs variance (Regularization), Dimensionality reduction (Principal component analysis) 
-5. Maths- Linear algebra, descriptive statistics (centrality, spread, skewness, frequency distribution) 
-6. Others: ETL basics, API key generation, datetime, processing image data
+5. Maths- Linear algebra, descriptive statistics (centrality, spread, skewness, frequency distribution), probability
+6. Others: ETL pipelines, processing image data
 7. Web developemenmt: HTML, CSS, JavaScript, AWS (compute, storage, network routing, Authorization)
 
  ### 💬  Working on  
